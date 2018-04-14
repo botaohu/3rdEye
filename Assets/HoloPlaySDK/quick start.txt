@@ -1,0 +1,13 @@
+HoloPlay SDK Quick Start guide:
+
+- Right click in your hierarchy and click "HoloPlay -> HoloPlay Capture"
+
+or
+
+- Drag the "HoloPlay Capture" prefab into your scene!
+
+The inspector for the HoloPlay is where most of the elements can be customized. 
+Play around with settings to achieve desired results.
+
+For guides, tutorials, forums and FAQ please visit us at lookingglassfactory.com!
+We'd love to hear from you.

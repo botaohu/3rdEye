@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 87951c28997024d09a61dbab55077b78
+timeCreated: 1520227344
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back_wall_inner
+    100002: back_wall_outer
+    100004: bottom_wall_inner
+    100006: bottom_wall_outer
+    100008: //RootNode
+    100010: front_wall_sides
+    100012: left_wall_inner
+    100014: left_wall_outer
+    100016: right_wall_inner
+    100018: right_wall_outer
+    100020: top_wall_inner
+    100022: top_wall_outer
+    400000: back_wall_inner
+    400002: back_wall_outer
+    400004: bottom_wall_inner
+    400006: bottom_wall_outer
+    400008: //RootNode
+    400010: front_wall_sides
+    400012: left_wall_inner
+    400014: left_wall_outer
+    400016: right_wall_inner
+    400018: right_wall_outer
+    400020: top_wall_inner
+    400022: top_wall_outer
+    2300000: back_wall_inner
+    2300002: back_wall_outer
+    2300004: bottom_wall_inner
+    2300006: bottom_wall_outer
+    2300008: front_wall_sides
+    2300010: left_wall_inner
+    2300012: left_wall_outer
+    2300014: right_wall_inner
+    2300016: right_wall_outer
+    2300018: top_wall_inner
+    2300020: top_wall_outer
+    3300000: back_wall_inner
+    3300002: back_wall_outer
+    3300004: bottom_wall_inner
+    3300006: bottom_wall_outer
+    3300008: front_wall_sides
+    3300010: left_wall_inner
+    3300012: left_wall_outer
+    3300014: right_wall_inner
+    3300016: right_wall_outer
+    3300018: top_wall_inner
+    3300020: top_wall_outer
+    4300000: back_wall_outer
+    4300002: back_wall_inner
+    4300004: top_wall_inner
+    4300006: bottom_wall_inner
+    4300008: right_wall_inner
+    4300010: left_wall_inner
+    4300012: bottom_wall_outer
+    4300014: top_wall_outer
+    4300016: left_wall_outer
+    4300018: right_wall_outer
+    4300020: front_wall_sides
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back_wall_inner
+    second: {fileID: 2100000, guid: 39c985a1781084c478c1e8ba6359fc81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back_wall_outer
+    second: {fileID: 2100000, guid: 951c2cc862d954edfb5ee882287445d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottom_wall_inner
+    second: {fileID: 2100000, guid: 12ccb2b5353a141b3bb188c6ef83fa65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottom_wall_outer
+    second: {fileID: 2100000, guid: 5c80b98089ed049f69a40da12cda6789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_wall_sides
+    second: {fileID: 2100000, guid: 530aa44ff6a824389b94973abbfd1749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left_inner
+    second: {fileID: 2100000, guid: 77598a577180f4ea5916a5a346ab9805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left_wall_outer
+    second: {fileID: 2100000, guid: 391a1cfa45f0c48c7b416af50b74f2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right_wall_inner
+    second: {fileID: 2100000, guid: a583d0294ef7b468fa7c13bba1d50040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right_wall_outer
+    second: {fileID: 2100000, guid: ae56085b4d54243b28949d696b67cc65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top_wall_inner
+    second: {fileID: 2100000, guid: 6476cfdac94864b1c90e5e3fcad62177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top_wall_outer
+    second: {fileID: 2100000, guid: 07abb85a85a2f44bc92674cc1bac3b3a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.002
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
